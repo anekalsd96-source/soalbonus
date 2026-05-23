@@ -24,7 +24,6 @@ void main() {
   print(angka.toDoubleValue()); // 123.0
 }
 ```
----
 
 <img width="1919" height="678" alt="image" src="https://github.com/user-attachments/assets/29195ef1-bc2f-40b4-8121-b880fd0458d8" />
 
@@ -53,6 +52,8 @@ void main() {
   print(StringDouble(angka).toInt()); // 123.0
 }
   ```
+
+
 ---
 
 
