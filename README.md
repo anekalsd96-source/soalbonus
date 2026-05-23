@@ -1,3 +1,10 @@
+## 👤 Identitas
+### Nama       : Aneka Lisda 
+### NIM        : 25141013P
+### Kelas      : SI2KR
+### Mata Kuliah: Pemrograman Berbasis Objek  
+
+---
 ## Jawaban Soal ke-1
 Kode akan menghasilkan error karena terdapat dua extension pada tipe String dengan nama method yang sama (toInt). Dart tidak dapat menentukan method mana yang digunakan karena return type tidak menjadi pembeda. Solusinya adalah mengganti nama method agar berbeda atau memanggil extension secara eksplisit menggunakan nama extension.
 Solusi agar tidak konflik 
