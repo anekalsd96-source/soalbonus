@@ -58,7 +58,7 @@ Kode gagal dikompilasi karena extension tidak dapat mengakses member private (_v
 
 ---
 ## Solusi Agar Tidak Konflik
-### Solusi ke-1 Tambahkan getter di dalam class
+### Tambahkan getter di dalam class
    ```dart
 class Counter {
   int _value = 0;
@@ -83,7 +83,8 @@ void main() {
 }
 
 ```
-[Klik di sini untuk menjalankan kode DartPad](https://dartpad.dev/396c6de94f081944db69a38d9633f1e3)
+[Klik di sini untuk menjalankan kode DartPad](https://dartpad.dev/f1fec65d4f2a1e3f651ef256f73e738b)
+
 
 
 
