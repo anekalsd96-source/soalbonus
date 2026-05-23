@@ -50,7 +50,7 @@ void main() {
   print(StringDouble(angka).toInt()); // 123.0
 }
   ```
-[Klik di sini untuk menjalankan kode DartPad](https://dartpad.dev/acc0afdd3989695374ed5fe29a8e2902)
+[Klik di sini untuk menjalankan kode DartPad](https://dartpad.dev/396c6de94f081944db69a38d9633f1e3)
 
 ---
 
