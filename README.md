@@ -25,9 +25,7 @@ void main() {
 }
 ```
 
-<img width="1919" height="678" alt="image" src="https://github.com/user-attachments/assets/29195ef1-bc2f-40b4-8121-b880fd0458d8" />
-
----
+[Klik di sini untuk menjalankan kode DartPad](https://dartpad.dev/acc0afdd3989695374ed5fe29a8e2902)
 
 ### 2. Gunakan nama Extension secara explisit
 Kalau tetap mau nama method sama:
@@ -52,7 +50,7 @@ void main() {
   print(StringDouble(angka).toInt()); // 123.0
 }
   ```
-
+[Klik di sini untuk menjalankan kode DartPad](https://dartpad.dev/acc0afdd3989695374ed5fe29a8e2902)
 
 ---
 
