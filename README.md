@@ -5,7 +5,7 @@
 ### Mata Kuliah: Pemrograman Berbasis Objek  
 
 ---
-## Jawaban Soal ke-1
+## Jawaban Soal Bonus ke-1
 Kode akan menghasilkan error karena terdapat dua extension pada tipe String dengan nama method yang sama (toInt). Dart tidak dapat menentukan method mana yang digunakan karena return type tidak menjadi pembeda. Solusinya adalah mengganti nama method agar berbeda atau memanggil extension secara eksplisit menggunakan nama extension.
 Solusi agar tidak konflik 
 
@@ -60,7 +60,7 @@ void main() {
 [Klik di sini untuk menjalankan kode DartPad](https://dartpad.dev/396c6de94f081944db69a38d9633f1e3)
 
 ---
-## Jawaban Soal ke-2
+## Jawaban Soal Bonus ke-2
 Kode gagal dikompilasi karena extension tidak dapat mengakses member private (_value) dari class Counter. Dalam Dart, member dengan tanda underscore hanya bisa diakses dalam library yang sama. Untuk memperbaikinya tanpa mengubah menjadi public, dapat dibuat getter pada class Counter, kemudian extension mengakses nilai melalui getter tersebut.
 
 ---
